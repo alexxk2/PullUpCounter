@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">PullUpCounter</string>
+    <string name="staircase_image">This is a staircase image</string>
+    <string name="hint_for_start_input">Start</string>
+    <string name="hint_for_end_input">End</string>
+    <string name="switch_name">Step</string>
+    <string name="hint_for_switch_input">Step</string>
+    <string name="information_button">Show info</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="result_of_calculations">Total</string>
+
+    <!--For dialog-->
+    <string name="dialog_title">Step</string>
+    <string name="dialog_information">In case you want to do only second, third, etc repetition please set a STEP. For example when STEP = 2 set will be (0–2–4–6–8…)</string>
+    <string name="start">start</string>
+    <string name="negative_button">Turn off</string>
+    <string name="positive_button">Turn on</string>
+    <string name="neutral_button">Ignore</string>
+
+    <!--For radio button Step-->
+    <string name="notification_step_on">Step-function is on</string>
+    <string name="notification_step_off">Step-function is off</string>
+
+    <!--For Snackbar button-->
+    <string name="snackbar_information">Important info</string>
+    <string name="snackbar_text_up">Count only up</string>
+    <string name="snackbar_text_up_and_down">Count up and down</string>
+    <string name="snackbar_text_down">Count only down</string>
+    <string name="snackbar_text_button">Got it</string>
+
+    <!--For exceptions-->
+    <string name="number_format_exception">Please set all values</string>
+    <string name="wrong_values_exception">START value can`t be bigger than END value. Please set appropriate values</string>
+    <string name="wrong_step_value">Incorrect STEP value. Please set suitable value for STEP (less than END value)</string>
+</resources>
